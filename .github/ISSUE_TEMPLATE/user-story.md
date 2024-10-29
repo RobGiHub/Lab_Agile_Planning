@@ -1,6 +1,6 @@
 ---
 name: User Story
-about: to create user story
+about: Give it a description
 title: ''
 labels: ''
 assignees: ''
@@ -20,3 +20,4 @@ assignees: ''
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
+ ```
